@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
+- Live Site URL: [https://results-summary-component-solution.vercel.app/](https://results-summary-component-solution.vercel.app/)
 
 ## My process
 
